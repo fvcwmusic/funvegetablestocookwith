@@ -126,9 +126,7 @@ header {
 }
 
 #logo { 
-  width: 200px;
   float: left;
-  height: 100px;
   background: transparent;
   padding: 0 0 10px 0;
 }
