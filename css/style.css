@@ -1,15 +1,10 @@
+
 html { 
   height: 100%;
 }
 
 * { 
-  margin: 0;
-  padding: 0;
-}
-
-/* tell the browser to render HTML 5 elements as block */
-article, aside, figure, footer, header, hgroup, nav, section { 
-  display:block;
+  box-sizing: border-box;
 }
 
 body { 
@@ -30,7 +25,6 @@ img {
 
 h1, h2, h3, h4, h5, h6 { 
   color: #222;
-  margin: 0 0 15px 0;
   padding: 15px 0 5px 0;
 }
 
@@ -84,14 +78,6 @@ ul li {
   padding: 0 0 4px 5px;
 }
 
-ol { 
-  margin: 8px 0 22px 20px;
-}
-
-ol li { 
-  margin: 0 0 11px 0;
-}
-
 .left { 
   float: left;
   width: auto;
@@ -120,10 +106,6 @@ ol li {
   margin: 20px auto 0 auto;
 }
 
-header { 
-  width: 950px;
-  height: 105px;
-}
 
 #logo { 
   float: left;
@@ -132,7 +114,7 @@ header {
 }
 
 #logo h1 { 
-  padding: 37px 0 0 0;
+  padding: 10px 0 0 0;
   color: #222;
   letter-spacing: -2px;
 }
@@ -147,12 +129,8 @@ header {
   text-decoration: none;
 }
 
-nav { 
-  height: 26px;
-  width: 740px;
-  margin: 1px auto 0 auto;
-  float: right;
-  padding: 35px 10px 0 0;
+nav {
+  z-index: 2;	
 } 
 
 #site_content { 
