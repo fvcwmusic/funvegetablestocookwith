@@ -1,0 +1,261 @@
+html { 
+  height: 100%;
+}
+
+* { 
+  margin: 0;
+  padding: 0;
+}
+
+/* tell the browser to render HTML 5 elements as block */
+article, aside, figure, footer, header, hgroup, nav, section { 
+  display:block;
+}
+
+body { 
+  font: normal .85em arial, sans-serif;
+  background: #F5F5F5 url(../images/pattern.png);
+  color: #444;
+  padding-bottom: 40px;
+}
+
+p { 
+  padding: 0 0 20px 0;
+  line-height: 1.5em;
+}
+
+img { 
+  border: 0;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+  color: #222;
+  margin: 0 0 15px 0;
+  padding: 15px 0 5px 0;
+}
+
+h1 { 
+  text-shadow: 1px 1px #FFF;
+}
+
+h2 { 
+  color: #222;  
+  margin: 0;
+  padding: 0 0 8px 0;
+  text-shadow: 1px 1px #FFF;
+}
+
+h4, h5, h6 { 
+  margin: 0;
+  padding: 0 0 5px 0;
+  font: normal 110% arial, sans-serif;
+  color: #999;
+  line-height: 1.5em;
+}
+
+h5, h6 { 
+  font: italic 95% arial, sans-serif;
+  color: #888;
+  padding-bottom: 15px;
+}
+
+h6 { 
+  color: #362C20;
+}
+
+a, a:hover { 
+  outline: none;
+  color: #000;
+  text-decoration: underline;
+}
+
+a:hover { 
+  text-decoration: none;
+  color: #666;
+}
+
+ul { 
+  margin: 2px 0 22px 17px;
+}
+
+ul li { 
+  list-style-type: circle;
+  margin: 0 0 0 0; 
+  padding: 0 0 4px 5px;
+}
+
+ol { 
+  margin: 8px 0 22px 20px;
+}
+
+ol li { 
+  margin: 0 0 11px 0;
+}
+
+.left { 
+  float: left;
+  width: auto;
+  margin-right: 10px;
+}
+
+.right { 
+  float: right; 
+  width: auto;
+  margin-left: 10px;
+}
+
+.center { 
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+}
+
+#main, header, #logo, nav, #site_content, footer { 
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+#main { 
+  width: 950px;
+  margin: 20px auto 0 auto;
+}
+
+header { 
+  width: 950px;
+  height: 105px;
+}
+
+#logo { 
+  width: 200px;
+  float: left;
+  height: 100px;
+  background: transparent;
+  padding: 0 0 10px 0;
+}
+
+#logo h1 { 
+  padding: 37px 0 0 0;
+  color: #222;
+  letter-spacing: -2px;
+}
+
+#logo h1 a { 
+  color: #999;
+  text-decoration: none;
+}
+
+#logo h1 a:hover { 
+  color: #222;
+  text-decoration: none;
+}
+
+nav { 
+  height: 26px;
+  width: 740px;
+  margin: 1px auto 0 auto;
+  float: right;
+  padding: 35px 10px 0 0;
+} 
+
+#site_content { 
+  width: 950px;
+  overflow: hidden;
+  margin: 4px auto 0 auto;
+  padding: 0;
+  border-top: 0;
+  border-bottom: 0;
+} 
+
+#sidebar_container { 
+  float: right;
+  width: 250px;
+  padding: 16px 0 0 0;
+  height: 450px;
+}
+
+.sidebar { 
+  float: right;
+  width: 450px;
+  margin: 0 0 17px 0;
+  padding: 0 15px 5px 13px;
+}
+  
+.sidebar h3 { 
+  padding: 0 15px 20px 0;
+  text-shadow:  #FFF 1px 1px;
+  margin: 0 1px;
+  color: #222;
+}
+
+.sidebar_item, .content_item { 
+  padding: 15px 0;
+}
+
+#content { 
+  text-align: justify;
+  width: 670px;
+  padding: 0 0 5px 0;
+  margin: 0;
+  float: left;
+}
+
+#content ul, .sidebar ul { 
+  margin: 2px 0 5px 0px;
+}
+
+#content ul li, .sidebar ul li { 
+  list-style-type: none;
+  background: transparent url(../images/bullet.png) no-repeat left center;
+  margin: 0 0 0 0; 
+  padding: 2px 0 2px 28px;
+  line-height: 1.5em;
+}
+
+footer { 
+  width: 950px;
+  height: 90px;
+  padding: 20px 0 5px 0;
+  text-align: center; 
+  color: #222;
+  /*background: #D5D5D6;*/
+}
+
+footer p { 
+  padding: 0 0 10px 0;
+}
+
+footer a, footer a:hover { 
+  color: #222;
+  text-decoration: underline;
+}
+
+footer a:hover { 
+  color: #FFF;
+  text-decoration: none;
+}
+
+table { 
+  margin: 10px 0 30px 0;
+}
+
+table tr th, table tr td { 
+  background: #BBB;
+  color: #FFF;
+  padding: 7px 4px;
+  text-align: left;
+}
+  
+table tr td { 
+  background: #DDD;
+  color: #47433F;
+  border-top: 1px solid #FFF;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
