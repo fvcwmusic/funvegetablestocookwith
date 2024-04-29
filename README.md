@@ -6,13 +6,13 @@ We emphasize professionalism, and we provide:
 - Networking for local musicians. We regularly collobrate with and feature new local talent.
 - Networking for venues. fvcwmusic will work with you to provide live music for your events.
 
-# For events and venues
+## For events and venues
 Please reach out to fvcwbooking@gmail.com to book a show. We offer multiple genres and set lengths.
 
-# For musicians
+## For musicians
 If you would like to colloborate please reach out to us on instagram or at fvcwbooking@gmail.com.
 
-# For lessons and band consultation
+## For lessons and band consultation
 No matter your level, we can help. 
 - Learn your instrument and music theory
 - Pair up with local band members similar in talent and goals 
