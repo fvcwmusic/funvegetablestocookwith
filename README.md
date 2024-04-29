@@ -10,7 +10,7 @@ We emphasize professionalism, and we provide:
 Please reach out to fvcwbooking@gmail.com to book a show. We offer multiple genres and set lengths.
 
 ## Got talent?
-If you would like to colloborate please reach out to us on instagram or at fvcwbooking@gmail.com.
+If you would like to colloborate please reach out to us at https://www.instagram.com/fvcwmusic or fvcwbooking@gmail.com.
 
 ## For lessons and band consultation
 No matter your level, we can help. 
