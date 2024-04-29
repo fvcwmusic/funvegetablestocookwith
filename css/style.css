@@ -219,7 +219,9 @@ table tr th, table tr td {
   background: #BBB;
   color: #FFF;
   padding: 7px 4px;
-  text-align: left;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
 }
   
 table tr td { 
