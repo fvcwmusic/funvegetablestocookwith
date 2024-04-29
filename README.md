@@ -7,7 +7,7 @@ We emphasize professionalism, and we provide:
 - Networking for venues. fvcwmusic will work with you to provide live music for your events.
 
 ## Book a show
-Please reach out to https://www.instagram.com/fvcwmusic and or fvcwbooking@gmail.com to book a show. We offer multiple genres and set lengths.
+Please reach out at fvcwbooking@gmail.com to book a show. We offer multiple genres and set lengths.
 
 ## Got talent?
 If you would like to colloborate please reach out to us at https://www.instagram.com/fvcwmusic and or fvcwbooking@gmail.com.
